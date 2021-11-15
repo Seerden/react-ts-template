@@ -26,4 +26,5 @@ Aliases have already been added to the webpack configuration for the following d
 - `/src/types`
 - `/src/state`
 - `/src/helpers`
+
 Of course, feel free to use whichever file structure you deem suitable for your project.
