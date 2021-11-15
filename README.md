@@ -10,3 +10,11 @@ Comes with
 ## Installation
 - clone this repository
 - run `npm install`
+
+## Usage
+### Scripts
+- start development server with `npm run serve`,
+- build bundle with `npm run build`
+### Notes
+- Make sure to update the project information in `./package.json`,
+- Make sure to update the title in `./index.html`
