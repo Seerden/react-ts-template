@@ -16,5 +16,14 @@ Comes with
 - start development server with `npm run serve`,
 - build bundle with `npm run build`
 ### Notes
+#### Project personalization
 - Make sure to update the project information in `./package.json`,
 - Make sure to update the title in `./index.html`
+#### Recommended file structure
+Aliases have already been added to the webpack configuration for the following directories:
+- `/src/components`
+- `/src/hooks`
+- `/src/types`
+- `/src/state`
+- `/src/helpers`
+Of course, feel free to use whichever file structure you deem suitable for your project.
